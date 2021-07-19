@@ -12,7 +12,7 @@ Features:
 ## Install
 
 ```
-go get -u github.com/soluchok/tsender
+go get -u github.com/alxshelepenok/tsender
 ```
 
 ## Example
@@ -26,7 +26,7 @@ import (
 	"time"
 
 	"github.com/go-telegram-bot-api/telegram-bot-api"
-	"github.com/soluchok/tsender"
+	"github.com/alxshelepenok/tsender"
 )
 
 const (
