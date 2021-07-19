@@ -1,4 +1,4 @@
-module github.com/soluchok/tsender
+module github.com/alxshelepenok/tsender
 
 go 1.13
 
